@@ -30,7 +30,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milindahashankumara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 
