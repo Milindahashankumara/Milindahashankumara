@@ -29,7 +29,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Milindahashankumara&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milindahashankumara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+
+  <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
