@@ -1,3 +1,20 @@
+###
+<div>
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milinda+Hashan!;" />
+
+<img width="230" align="right" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/refs/heads/main/dev-working_rounded.gif" alt="arunapriyadarshana" />
+
+</div>
+
+     
+<h3 align="left">Fullstack developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milindahashankumara&label=Profile%20views&color=0e75b6&style=flat" alt="ilindahashankumara" /> </p>
+
+---
+
+
 # 💫 About Me:
 🌱 I'm currently studying for B.Sc. (Hons) in IT&M  at University of Moratuwa
 
@@ -15,7 +32,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-<img  alt="GitHub Snake" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/output/github-contribution-grid-snake.svg" />
+<img  alt="GitHub Snake" src="https://raw.githubusercontent.com/Milindahashankumara/Milindahashankumara/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## 🏆 GitHub Trophies
