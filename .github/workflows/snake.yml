@@ -1,31 +1,35 @@
 name: Generate Snake 🐍
 
 on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
-  build:
+  generate_snake:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate GitHub contributions snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: MilindaHashanKumara
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create output branch if missing, then push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git checkout -b output || git checkout output
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake SVG" || echo "No changes to commit"
-          git push origin output --force
+      - name: Push generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update snake SVG"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
