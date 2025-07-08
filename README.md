@@ -15,7 +15,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img  alt="GitHub Snake" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## 🏆 GitHub Trophies
