@@ -3,9 +3,7 @@
 
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milinda+Hashan!;" />
 
-<img width="230" align="right" src="https://raw.githubusercontent.com/arunapriyadarshana/arunapriyadarshana/refs/heads/main/dev-working_rounded.gif" alt="arunapriyadarshana" />
-
-</div>
+<img width="230" align="right" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/main/image-git.gif" alt="MilindaHashanKumara" />
 
      
 <h3 align="left">Fullstack developer</h3>
