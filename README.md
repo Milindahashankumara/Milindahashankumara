@@ -32,8 +32,11 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-<img  alt="GitHub Snake" src="https://raw.githubusercontent.com/Milindahashankumara/Milindahashankumara/output/github-contribution-grid-snake.svg" />
+  <img 
+    alt="GitHub Snake" 
+    src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Milindahashankumara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
