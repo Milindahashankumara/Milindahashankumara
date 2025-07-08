@@ -1,3 +1,4 @@
+# .github/workflows/snake.yml
 name: Generate Snake 🐍
 
 on:
@@ -5,34 +6,37 @@ on:
     - cron: "0 0 * * *" # Every day at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub contributions snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: MilindaHashanKumara
-          outputs: dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Show output of generated files
+        run: ls -la dist/
 
-      - name: Commit and push to output branch
-        run: |
-          git fetch
-          git switch --create output || git switch output
-          cp -r dist/* .
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake SVG" || echo "No changes to commit"
-          git push origin output --force
+      - name: Push snake files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
