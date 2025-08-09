@@ -1,7 +1,7 @@
 ###
 <div>
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Milinda+Hashan!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hashan+Wickramasinghe!;" />
 
 <img width="250" align="right" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/main/image-git.gif" alt="MilindaHashanKumara" />
 
