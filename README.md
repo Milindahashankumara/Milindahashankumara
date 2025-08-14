@@ -8,7 +8,7 @@
      
 <h3 align="left">Fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milindahashankumara&label=Profile%20views&color=0e75b6&style=flat" alt="ilindahashankumara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milindahashankumara&label=Profile%20views&color=0e75b6&style=flat&cache=bust" alt="Milindahashankumara" /> </p>
 
 ---
 
@@ -46,6 +46,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Milindahashankumara&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Milindahashankumara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
