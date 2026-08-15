@@ -128,20 +128,20 @@ DevOps practices & cloud architecture
 
 <br/>
 
-##  GitHub Overview
+## GitHub Overview
 
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Milindahashankumara&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Milindahashankumara&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milindahashankumara&layout=compact&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="top langs" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Milindahashankumara&layout=compact&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="top langs" width="100%"/>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Milindahashankumara&theme=dark&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Milindahashankumara&theme=dark&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="streak" width="100%"/>
 </td>
 </tr>
 </table>
@@ -151,7 +151,7 @@ DevOps practices & cloud architecture
 </div>
 
 <details>
-<summary><b> Top contributed repository</b></summary>
+<summary><b>Top contributed repository</b></summary>
 <br/>
 <img src="https://github-contributor-stats.vercel.app/api?username=Milindahashankumara&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="top contributed repo" />
 </details>
