@@ -130,48 +130,8 @@ DevOps practices & cloud architecture
 
 ## GitHub Overview
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-stats-extended.vercel.app/api?username=Milindahashankumara&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" width="100%"/>
-</td>
-<td valign="top" width="50%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Milindahashankumara&layout=compact&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="top langs" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://streak-stats.demolab.com?user=Milindahashankumara&theme=dark&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="streak" width="100%"/>
-</td>
-</tr>
-</table>
+<table> <tr> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api?username=Milindahashankumara&show_icons=true&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&icon_color=e94560&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" width="100%"/> </td> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Milindahashankumara&layout=compact&theme=dark&hide_border=true&bg_color=0,1a1a2e,16213e&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="top langs" width="100%"/> </td> </tr> <tr> <td colspan="2"> </td> </tr> </table> <div align="center"> </div> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" /> </picture> </div> <br/> <div align="center">
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Milindahashankumara&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
-</div>
+Show Image
 
-<details>
-<summary><b>Top contributed repository</b></summary>
-<br/>
-<img src="https://github-contributor-stats.vercel.app/api?username=Milindahashankumara&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="top contributed repo" />
-</details>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/MilindaHashanKumara/MilindaHashanKumara/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Milindahashankumara&label=Profile%20Views&color=e94560&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" /> </div>
